@@ -1,2 +1,2 @@
 # OwapsVuls
-My work so far
+Hi, I'm Kien. Currently I'm a 3rd year colledge student, I'm studying Information Assurance which is also known as Information Security. Before FPT, I spent 2 years as a Mechanics student in MTA (Military Technical Acadamy) but I don't think that's what I wanted to learn, so I moved to FPT  and started with things I really interested in, everything were hard at first, programming language, mathemathics, etc... However, I managed to pass all of it :D . Till now this is literally all what I've done and practiced in the field of Information Security, much as I want to develop myself, I'm going on an intern semester very soon. Hope you can check my works out. Thank you very much, hope you have a nice day.   
